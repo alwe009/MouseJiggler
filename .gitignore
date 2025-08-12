@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mypy cache
+.mypy_cache/
+
+# Virtual environment
+.env/
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

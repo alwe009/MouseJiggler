@@ -17,7 +17,7 @@ You are encouraged to **read the code first** to ensure it’s safe. Transparenc
 ### Option 1 — Run from Python
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/MouseJiggler.git  
+   git clone https://github.com/alwe009/MouseJiggler.git  
    cd MouseJiggler  
    ```
 2. Create a virtual environment (optional but recommended):  
